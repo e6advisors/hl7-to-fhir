@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2026 E6 Advisors
+Copyright (c) 2024
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +19,11 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+DISCLAIMER: This software is provided for informational and development 
+purposes. While it implements HIPAA Safe Harbor de-identification standards, 
+the authors make no warranty or guarantee regarding HIPAA compliance. Users 
+are responsible for verifying that de-identification meets their specific 
+requirements and consulting with legal and compliance teams before production 
+use. The authors assume no liability for any misuse or non-compliance with 
+HIPAA or other regulations.

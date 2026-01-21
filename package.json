@@ -1,0 +1,45 @@
+{
+  "name": "hl7-to-fhir",
+  "version": "1.0.0",
+  "description": "A comprehensive JavaScript library for converting HL7 v2.x messages to FHIR R4-compliant resources",
+  "main": "src/hl7ToFhirService.js",
+  "type": "module",
+  "scripts": {
+    "test": "node example.js"
+  },
+  "keywords": [
+    "hl7",
+    "fhir",
+    "hl7-to-fhir",
+    "healthcare",
+    "medical-records",
+    "hl7-v2",
+    "fhir-r4",
+    "health-information-exchange",
+    "hie",
+    "adt",
+    "orm",
+    "oru",
+    "interoperability"
+  ],
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/hl7-to-fhir.git"
+  },
+  "engines": {
+    "node": ">=12.0.0"
+  },
+  "dependencies": {
+    "hl7-parser": "^1.0.0"
+  },
+  "peerDependencies": {
+    "hl7-parser": "^1.0.0"
+  },
+  "files": [
+    "src/",
+    "README.md",
+    "LICENSE"
+  ]
+}
