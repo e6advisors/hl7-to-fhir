@@ -450,11 +450,6 @@ The authors assume no liability for any misuse or errors in HL7 to FHIR conversi
 
 For issues, questions, or contributions, please open an issue on the GitHub repository.
 
-## Related Projects
-
-- [hl7-parser](https://github.com/yourusername/hl7-parser) - HL7 message parser (required dependency)
-- [hl7-deidentification](https://github.com/yourusername/hl7-deidentification) - HL7 de-identification library
-
 ## Version History
 
 - **1.0.0** - Initial release
